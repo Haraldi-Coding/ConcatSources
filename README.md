@@ -16,5 +16,5 @@ In detail, if you have a project folder and want to save the result in your Down
 
 Take care:
 
-* vibe coded with the help of OpenAI.
-* I am using "System.CommandLine" in version 2.0.0-beta6.25358.103. One doesn't need that (I am writing helper apps now for a very long time, and I have never used that). It was a proposal, and I liked it, so I have kept it. **Take care: using beta software is always on your own risk!**
+* Vibe coded with the help of OpenAI (with a paid license, model used o3 today at 2025-08-02).
+* I am using "System.CommandLine" in version 2.0.0-beta6.25358.103. One doesn't need that (I am writing helper apps now for a very long time, and I have never used that). It was a vibe proposal, and I liked it, so I have kept it. **Take care: using beta software is always on your own risk!**
