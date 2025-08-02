@@ -2,7 +2,7 @@ I am using .net 9 here.
 
 # Background
 
-When trying to use different AI tools for programming, it might be a cumbersome work to "merge" all your (here: *.cs) files in one file to upload it to your AI tool of your preference or if you use an API. So, I needed a tool that merges all my files in a folder in a single file for uploading, as there might be a restriction also in the number of files one can upload and it is horrible to look for each file in each subfolder in a bigger project. Here you can add all.
+When trying to use different AI tools for programming, it might be a cumbersome work to "merge" all your (here: *.cs) files in one file to upload it to your AI tool of your preference or if you use an API. So, I needed a tool that merges all my files in a folder with subfolder structure in a single file for uploading, as there might be a restriction also in the number of files one can upload and it is horrible to look for each file in each subfolder in a bigger project. Here you can add all.
 
 Take nevertheless care and have a look at the context window size if you upload it.
 
