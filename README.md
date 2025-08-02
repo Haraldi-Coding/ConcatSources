@@ -24,3 +24,4 @@ Take care:
 
 * Vibe coded with the help of OpenAI (with a paid license, model used o3 today at 2025-08-02).
 * I am using "System.CommandLine" in version 2.0.0-beta6.25358.103. One doesn't need that (I am writing helper apps now for a very long time, and I have never used that). It was a vibe proposal, and I liked it, so I have kept it. **Take care: using beta software is always on your own risk!**
+* As I am using in many projects Entity Framework Code First, there is in program.cs a list where you can exclude directories you don't want. Here for Entity Framework Core Code First: "Migrations". This is *always* excluded.
